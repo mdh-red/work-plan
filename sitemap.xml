@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://menhood.320.io/statistics/index.html</loc>
+    
+    <lastmod>2018-06-15T10:06:59.420Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://menhood.320.io/log/index.html</loc>
     
-    <lastmod>2018-06-15T09:23:34.288Z</lastmod>
+    <lastmod>2018-06-15T10:04:08.193Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://menhood.320.io/%E7%A7%AF%E6%9C%A8%E8%A7%A3%E8%AF%B4%E8%AF%8D/</loc>
     
     <lastmod>2018-06-14T11:18:31.106Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://menhood.320.io/statistics/index.html</loc>
-    
-    <lastmod>2018-06-12T09:56:13.760Z</lastmod>
     
   </url>
   
